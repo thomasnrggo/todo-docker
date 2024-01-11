@@ -1,8 +1,8 @@
-# My Full Stack Application
+# To Do App
 
 ## Description
 
-This project is a full-stack web application consisting of a React frontend, a Node.js backend, and a MongoDB database. It's structured as a monorepo with Docker Compose for easy development and deployment.
+Simple To do App, This project is a full-stack web application consisting of a React frontend, a Node.js backend, and a MongoDB database. It's structured as a monorepo with Docker Compose for easy development and deployment.
 
 ## Getting Started
 
