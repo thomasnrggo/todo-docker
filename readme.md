@@ -15,13 +15,12 @@ Simple To do App, This project is a full-stack web application consisting of a R
 
 1. **Clone the Repository**
 2. run `docker-compose up -d`
+3. To shup down `docker-compose down`
 
 ### Accessing the Application
 
 - Frontend: Open your browser and navigate to http://localhost:3000.
 - Backend: The backend API is accessible at http://localhost:6969.
-
-### Development
 
 #### Making Changes
 
